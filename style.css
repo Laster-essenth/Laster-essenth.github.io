@@ -1,0 +1,716 @@
+.classabsolute{
+    position: absolute;
+}
+.classfenix{
+font-family: Fenix;
+font-style: normal;
+font-weight: normal;
+}
+.body{
+    font-family: 'Fenix', serif;
+}
+
+.desktop{
+    
+    width: 859px;
+    height: 730px;
+    left: 1061px;
+    top: 0px;
+    
+    background: #FDE6E1;
+}
+.desktop1{
+  
+    width: 596px;
+    height: 617px;
+    left: 692px;
+    top: 170px;
+    
+    background: #E5E5E5;
+}
+.desktop2{
+   
+    width: 153px;
+    height: 142px;
+    left: 0px;
+    top: 0px;
+    
+    background: #FDE6E1;
+}
+.logo{
+ 
+width: 118px;
+height: 114px;
+left: 18px;
+top: 14px;
+}
+
+.about{
+   
+    width: 58px;
+    height: 26px;
+    left: 1186px;
+    top: 50px;
+    font-family: Fenix;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 23px;
+    line-height: 26px;
+    color: #000000;
+    text-decoration: none;
+}
+.about:hover {
+    color: #C9A49C;; 
+    text-decoration: underline;
+}
+
+.text13:hover{color: #ffffff;}
+.music{
+  
+    width: 120px;
+    height: 26px;
+    left: 1261px;
+    top: 50px;
+    font-family: Fenix;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 23px;
+    line-height: 26px;
+    color: #000000;
+    text-decoration: none;
+}
+.music:hover {
+    color: #C9A49C;; 
+    text-decoration: underline;
+}
+.text13:hover{color: #ffffff;}
+.project{
+   
+    width: 76px;
+    height: 26px;
+    left: 1398px;
+    top: 51px;
+    
+    font-family: Fenix;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 23px;
+    line-height: 26px;
+    text-decoration: none;
+    color: #000000;
+}
+.project:hover {
+    color: #C9A49C;; 
+    text-decoration: underline;
+}
+.text13:hover{color: #ffffff;}
+.contact{
+   
+    width: 72px;
+    height: 26px;
+    left: 1491px;
+    top: 50px;
+    font-family: Fenix;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 23px;
+    line-height: 26px;
+    color: #000000;
+    text-decoration: none;
+}
+.contact:hover {
+    color: #C9A49C;; 
+    text-decoration: underline;
+}
+.text13:hover{color: #ffffff;}
+.photo1{
+  
+width: 530px;
+height: 611px;
+left: 726px;
+top: 173px;
+}
+.desktop4{
+   
+width: 528px;
+height: 114px;
+left: 291px;
+top: 635px;
+
+background: #C9A49C;
+}
+.text1{
+  
+    width: 350px;
+    height: 50px;
+    left: 380px;
+    top: 642px;
+    
+    font-family: Fenix;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 57px;
+    line-height: 64px;
+    text-align: center;
+    
+    color: #FFFFFF;
+    
+}
+.text2{
+   
+    width: 301px;
+    height: 34px;
+    left: 404px;
+    top: 703px;
+    
+    font-family: Fenix;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 29px;
+    line-height: 32px;
+    text-align: center;
+    
+    color: #FFFFFF;
+    
+}
+
+
+.abouts{
+   
+    width: 92px;
+    height: 41px;
+    left: 332px;
+    top: 43px;
+    
+    font-family: Fenix;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 37px;
+    line-height: 41px;
+    text-decoration: none;
+    color: #000000;
+    
+}
+.musics{
+  
+    width: 193px;
+    height: 41px;
+    left: 495px;
+    top: 43px;
+    
+    font-family: Fenix;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 37px;
+    line-height: 41px;
+    text-decoration: none;
+    color: #000000;
+    
+}
+.projects{
+  
+    width: 121px;
+    height: 41px;
+    left: 759px;
+    top: 43px;
+    
+    font-family: Fenix;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 37px;
+    line-height: 41px;
+    text-decoration: none;
+    color: #000000;
+}
+.contacts{
+  
+    width: 116px;
+    height: 41px;
+    left: 951px;
+    top: 43px;
+    
+    font-family: Fenix;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 37px;
+    line-height: 41px;
+    text-decoration: none;
+    color: #000000;
+}
+.inst{
+  
+    width: 52px;
+    height: 51px;
+    left: 1186px;
+    top: 38px;
+}
+.git{
+ 
+    width: 82px;
+    height: 78px;
+    left: 1238px;
+    top: 25px;
+    
+}
+.pin{
+  
+    width: 52px;
+    height: 52px;
+    left: 1320px;
+    top: 38px;
+}
+.desktop5{
+   
+    width: 1440px;
+    height: 602px;
+    left: 0px;
+    top: 126px;
+    
+    background: #FDE6E1;
+}
+.desktop6{
+   
+    width: 1440px;
+    height: 296px;
+    left: 0px;
+    top: 728px;
+    
+    background: #C4C4C4;
+}
+.desktop7{
+   
+    width: 523px;
+    height: 655px;
+    left: 116px;
+    top: 200px;
+    
+    background: #FFFFFF;
+    border: 3px solid #E6C7C1;
+    box-sizing: border-box;
+}
+.desktop8{
+   
+width: 609px;
+height: 472px;
+left: 704px;
+top: 200px;
+
+background: #FFFFFF;
+border: 3px solid #E6C7C1;
+box-sizing: border-box;
+}
+.text3{
+   
+    width: 284px;
+    height: 56px;
+    left: 749px;
+    top: 241px;
+    
+    font-family: Fenix;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 51px;
+    line-height: 57px;
+    text-decoration-line: underline;
+    
+    color: #000000;
+    
+}
+.text4{
+   
+    width: 517px;
+    height: 268px;
+    left: 749px;
+    top: 358px;
+    
+    font-family: Fenix;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 21px;
+    line-height: 23px;
+    
+    color: #000000;
+    
+}
+.photo2{
+  
+width: 391px;
+height: 629px;
+left: 182px;
+top: 213px;
+}
+
+
+музыка фильмы
+.desktop27{
+   
+width: 567px;
+height: 115px;
+left: 404px;
+top: 153px;
+
+background: #E6C7C1;
+}
+
+.text5{
+ 
+width: 319px;
+height: 61px;
+left: 544px;
+top: 180px;
+
+font-family: Fenix;
+font-style: normal;
+font-weight: normal;
+font-size: 61px;
+line-height: 68px;
+
+color: #000000;
+
+}
+.text6{
+    width: 1108px;
+    height: 78px;
+    left: 166px;
+    top: 294px;
+    
+    font-family: Fenix;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 29px;
+    line-height: 32px;
+    
+    color: #000000;
+    
+}
+.kinopoisk{
+  
+width: 579px;
+height: 323px;
+left: 68px;
+top: 468px;
+
+}
+.yandex{
+width: 579px;
+height: 323px;
+left: 759px;
+top: 468px;
+
+}
+
+проджект
+.desktop12{
+  
+    width: 1440px;
+    height: 200px;
+    left: 0px;
+    top: 152px;
+    
+    background: #FDE6E1;
+}
+.desktop13{
+
+    width: 794.01px;
+    height: 88.58px;
+    left: 330.47px;
+    top: 437px;
+    
+    background: #C9A49C;
+
+}
+.desktop14{
+  
+width: 1440px;
+height: 37px;
+left: 0px;
+top: 1444px;
+
+background: #FDE6E1;
+}
+.text7{
+ 
+width: 272px;
+height: 89px;
+left: 584px;
+top: 207px;
+
+font-family: Fenix;
+font-style: normal;
+font-weight: normal;
+font-size: 79px;
+line-height: 88px;
+
+color: #000000;
+}
+.text8{
+   
+width: 576px;
+height: 65px;
+left: 440px;
+top: 448px;
+
+font-family: Fenix;
+font-style: normal;
+font-weight: normal;
+font-size: 59px;
+line-height: 66px;
+
+color: #FFFFFF;
+}
+.desktop15{
+  
+width: 281px;
+height: 403px;
+left: 40px;
+top: 562.94px;
+
+background: #C4C4C4;
+}
+.desktop16{
+  
+width: 281px;
+height: 403px;
+left: 384px;
+top: 562.94px;
+
+background: #C4C4C4;
+}
+.desktop17{
+   
+width: 281px;
+height: 403px;
+left: 728px;
+top: 562.94px;
+
+background: #C4C4C4;
+}
+.desktop18{
+    width: 281px;
+    height: 403px;
+    left: 1072px;
+    top: 562.94px;
+    
+    background: #C4C4C4;
+}
+.desktop19{
+width: 281px;
+height: 403px;
+left: 384px;
+top: 1017.94px;
+
+background: #C4C4C4;
+}
+.desktop20{
+width: 281px;
+height: 403px;
+left: 728px;
+top: 1017.94px;
+
+background: #C4C4C4;
+}
+.gloss1{
+    width: 251px;
+    height: 344px;
+    left: 55px;
+    top: 592.94px; 
+    overflow:hidden;  
+    transition: 5s;
+    transform: scale(1.2);
+}
+.gloss2{
+    width: 251px;
+    height: 344px;
+    left: 399px;
+    top: 592.94px;
+    overflow:hidden;  
+    transition: 5s;
+    transform: scale(1.2);
+}
+.gloss3{
+    width: 251px;
+    height: 344px;
+    left: 743px;
+    top: 592.94px;
+    overflow:hidden;  
+    transition: 5s;
+    transform: scale(1.2);
+}
+.gloss4{
+    width: 307px;
+    height: 344px;
+    left: 1092px;
+    top: 592.94px;
+    overflow:hidden;  
+    transition: 5s;
+    transform: scale(1.2);
+}
+.gloss5{
+    width: 251px;
+    height: 350px;
+    left: 399px;
+    top: 1044.94px; 
+    overflow:hidden;  
+    transition: 5s;
+    transform: scale(1.2);
+}
+.gloss6{
+    width: 251px;
+    height: 350px;
+    left: 743px;
+    top: 1044.94px; 
+    overflow:hidden;  
+    transition: 5s;
+    transform: scale(1.2);
+}
+
+
+
+
+
+
+
+контактс
+.desktop21{
+width: 1440px;
+height: 894px;
+left: 0px;
+top: 130px;
+
+background: #FDE6E1;
+}
+.desktop22{
+    width: 549px;
+    height: 115.09px;
+    left: 425px;
+    top: 180px;
+    
+    background: #E6C7C1;
+}
+.desktop23{
+    width: 1360px;
+    height: 569px;
+    left: 36px;
+    top: 372px;
+    
+    background: #FFFFFF;
+}
+.text9{
+    width: 303px;
+    height: 83px;
+    left: 564px;
+    top: 196px;
+    
+    font-family: Fenix;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 79px;
+    line-height: 88px;
+    
+    color: #000000;
+    }
+.text10{
+width: 124px;
+height: 43px;
+left: 348px;
+top: 526px;
+
+font-family: Fenix;
+font-style: normal;
+font-weight: normal;
+font-size: 31px;
+line-height: 35px;
+color: #000000;
+}
+.text10:hover{color: #E6C7C1;}
+.text11{
+width: 125px;
+height: 44px;
+left: 558px;
+top: 525px;
+
+font-family: Fenix;
+font-style: normal;
+font-weight: normal;
+font-size: 31px;
+line-height: 35px;
+color: #000000;
+}
+.text11:hover{color: #E6C7C1;}
+
+.text12{
+width: 101px;
+height: 44px;
+left: 772px;
+top: 525px;
+
+font-family: Fenix;
+font-style: normal;
+font-weight: normal;
+font-size: 31px;
+line-height: 35px;
+color: #000000;
+}
+.text12:hover{color: #E6C7C1;}
+
+.text13{
+width: 141px;
+height: 44px;
+left: 955px;
+top: 525px;
+
+font-family: Fenix;
+font-style: normal;
+font-weight: normal;
+font-size: 31px;
+line-height: 35px;
+color: #000000;
+}
+    
+.text13:hover{color: #E6C7C1;}
+
+.tg{
+width: 162px;
+height: 167px;
+left: 335px;
+top: 567.5px;
+}
+.tg:hover {
+    transform: scale(1.2) rotate(2deg);
+}
+.pn{
+    width: 162px;
+    height: 164px;
+    left: 538px;
+    top: 567.5px;
+}
+.pn:hover {
+    transform: scale(1.2) rotate(2deg);
+}
+.gh{
+width: 163px;
+height: 160px;
+left: 740px;
+top: 571.5px;
+
+}
+.gh:hover {
+    transform: scale(1.2) rotate(2deg);
+}
+.ins{
+width: 155px;
+height: 153px;
+left: 941px;
+top: 580.5px;
+}
+.ins:hover {
+    transform: scale(1.2) rotate(2deg);
+}
+
+
+
+
+
+
+
+
